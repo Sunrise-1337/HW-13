@@ -9,7 +9,7 @@ body{
 .container{
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 15px;
+    padding: 0 25px;
 }
 .btn{
     border-radius: 9px;
@@ -249,7 +249,7 @@ header{
     margin-bottom: 70px;
 }
 .works-wrapper{
-    width: 1200px;
+    width: 1150px;
     min-height: 800px;
     margin-top: 45px;
     display: flex;
